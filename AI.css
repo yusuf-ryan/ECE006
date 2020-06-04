@@ -1,0 +1,29 @@
+body{
+    background-color: burlywood;
+    background-image: url("aaa.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 270% ;
+    background-position: top;
+}
+h1{
+    color: grey;
+    background-color:black;
+    padding: 10px;
+    margin: -8px;
+    text-align: center;
+}
+
+ul{
+    line-height: 30px;
+    margin: 7px -8px;
+}
+ul li a{
+    text-decoration: none;
+    display: inline-block;
+}
+ul li a:hover{
+    text-decoration: underline;
+
+}
+
+
